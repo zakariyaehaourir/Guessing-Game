@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733873993 source:d:\cariére\ehei\cpp-structure\s1\number-guess\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
